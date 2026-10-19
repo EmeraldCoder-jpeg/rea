@@ -311,7 +311,6 @@ Terima kasih kepada semua orang yang menggunakan REA, melaporkan bug, meminta fi
 
 ## Penafian
 
-Lihat [DISCLAIMER.md](../../DISCLAIMER.md) untuk panduan penggunaan yang bertanggung jawab.
 
 REA ditujukan untuk penelitian, pendidikan, interoperabilitas, pelestarian perangkat lunak, dan analisis perangkat lunak yang Anda miliki atau diizinkan untuk Anda periksa, sesuai hukum.
 

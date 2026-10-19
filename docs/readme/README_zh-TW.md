@@ -292,7 +292,6 @@ npx rea-agents@latest setup
 
 ## 免責聲明
 
-負責任使用的相關指引請見 [DISCLAIMER.md](../../DISCLAIMER.md)。
 
 REA 用於合法的研究、教育、互通性、軟體保存，以及分析你擁有或獲准檢查的軟體。
 

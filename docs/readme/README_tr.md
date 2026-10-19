@@ -291,7 +291,6 @@ REA'yı kullanan, hata bildiren, özellik talep eden, derlemeleri test eden ve d
 
 ## Sorumluluk reddi
 
-Sorumlu kullanım yönergeleri için [DISCLAIMER.md](../../DISCLAIMER.md) dosyasına bakın.
 
 REA; yasal araştırma, eğitim, birlikte çalışabilirlik, yazılımın korunması ve sahibi olduğunuz ya da inceleme yetkiniz bulunan yazılımların analizi için tasarlanmıştır.
 

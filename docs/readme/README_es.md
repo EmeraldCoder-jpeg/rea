@@ -286,7 +286,6 @@ Gracias a quienes usan REA, informan de errores, solicitan funciones, prueban co
 
 ## Aviso legal
 
-Consulta [DISCLAIMER.md](../../DISCLAIMER.md) para obtener orientación sobre el uso responsable.
 
 REA está destinado a la investigación, la educación, la interoperabilidad, la preservación de software y el análisis de software propio o autorizado, dentro de la ley.
 

@@ -367,7 +367,6 @@ Thanks to everyone using REA, reporting bugs, requesting features, testing build
 
 ## Disclaimer
 
-See [DISCLAIMER.md](DISCLAIMER.md) for responsible-use guidance.
 
 The project's position on illegal or unauthorized use covers all REA versions,
 distribution channels, and platforms; each copy retains its applicable licenses.

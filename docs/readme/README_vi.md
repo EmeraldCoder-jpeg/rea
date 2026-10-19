@@ -286,7 +286,6 @@ Cảm ơn mọi người đã sử dụng REA, báo lỗi, đề xuất tính n�
 
 ## Miễn trừ trách nhiệm
 
-Xem [DISCLAIMER.md](../../DISCLAIMER.md) để biết hướng dẫn sử dụng có trách nhiệm.
 
 REA dành cho nghiên cứu, giáo dục, khả năng tương tác, bảo tồn phần mềm và phân tích phần mềm bạn sở hữu hoặc được phép kiểm tra, trong khuôn khổ pháp luật.
 

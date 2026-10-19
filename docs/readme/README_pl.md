@@ -286,7 +286,6 @@ Dziękujemy wszystkim, którzy używają REA, zgłaszają błędy, proponują no
 
 ## Zastrzeżenie
 
-Wskazówki dotyczące odpowiedzialnego korzystania znajdziesz w [DISCLAIMER.md](../../DISCLAIMER.md).
 
 REA służy zgodnym z prawem badaniom, edukacji, zapewnianiu interoperacyjności, zachowaniu oprogramowania oraz analizie oprogramowania, które posiadasz lub masz prawo badać.
 
