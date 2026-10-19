@@ -290,7 +290,6 @@ Grazie a tutti coloro che usano REA, segnalano bug, propongono funzionalità, te
 
 ## Disclaimer
 
-Consulta [DISCLAIMER.md](../../DISCLAIMER.md) per le indicazioni sull'uso responsabile.
 
 REA è destinato alla ricerca, alla formazione, all’interoperabilità, alla conservazione del software e all’analisi di software di tua proprietà o che sei autorizzato a esaminare, nel rispetto della legge.
 

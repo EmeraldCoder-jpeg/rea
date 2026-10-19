@@ -290,7 +290,6 @@ Merci à toutes les personnes qui utilisent REA, signalent des bugs, proposent d
 
 ## Avertissement
 
-Consultez [DISCLAIMER.md](../../DISCLAIMER.md) pour les consignes d'utilisation responsable.
 
 REA est destiné à la recherche, à l’éducation, à l’interopérabilité, à la préservation logicielle et à l’analyse de logiciels que vous possédez ou êtes autorisé à examiner, dans le respect de la loi.
 
